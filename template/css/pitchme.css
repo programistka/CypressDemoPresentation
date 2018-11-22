@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
+.reveal section > h2 > span,
+.reveal section > span,
+.reveal section > div,
+.reveal section a {
+    font-family: 'Shadows Into Light', serif;
+    color: black;
+}
+
+.reveal section img {
+    border: none;
+    box-shadow: none;
+    background: none;
+}
+
+.announce-coming-soon {
+    font-size: 5.5em !important;
+}
+
+.pad-right-icon {
+    padding-right: 0.4em;
+}
