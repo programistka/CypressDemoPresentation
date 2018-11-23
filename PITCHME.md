@@ -10,7 +10,9 @@ WHY?
 @snapend
 
 +++?image=template/img/before.png
-@title[Transparent Background]
+@snap[south-west template-note text-black]
+Source: cypress.io
+@snapend
 
 +++
 @snap[north text-black span-100]
