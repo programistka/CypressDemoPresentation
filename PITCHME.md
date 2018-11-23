@@ -79,11 +79,11 @@ describe('ToDo test', () => {
 @[13]
 @[14]
 
-+++?image=template/img/cypress-open.png&size=contain
++++?image=template/img/cypress-open.png&size=contain&position=top
 
-+++?image=template/img/cypress-test-result.png&size=contain
++++?image=template/img/cypress-test-result.png&size=contain&position=top
 
-+++?image=template/img/cypress-test-result-expanded.png&size=contain
++++?image=template/img/cypress-test-result-expanded.png&size=contain&position=top
 
 +++
 @snap[north text-black span-100]
