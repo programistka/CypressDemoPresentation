@@ -16,24 +16,19 @@ Source: cypress.io
 
 +++
 @snap[north text-black span-100]
-@size[1.5em](Easy to start)
+@size[1.5em](Easy to...)
 @snapend
 
 @snap[middle fragment]
 @ul
 
--   simple install
--   no dependencies needed
--   no need to change the existing code
--   works on any front-end framework or website
--   open source
--   tests written in JavaScript
+-   ...install
+-   ...write tests
+-   ...debug
+-   ...include in CI and CD
     @snapend
 
 +++
-@snap[north text-black span-100]
-@size[1.5em](Simple install)
-@snapend
 
 ```javascript
 npm install cypress --save-dev
@@ -43,9 +38,9 @@ npm install cypress --save-dev
 
 +++?image=template/img/cypress-tree.png&size=contain
 
-+++?image=template/img/todo-1.png&size=contain
++++?image=template/img/todo-1.png&size=contain&position=top
 
-+++?image=template/img/todo-2.png&size=contain
++++?image=template/img/todo-2.png&size=contain&position=top
 
 +++?image=template/img/cypress-tree-with-tests.png&size=contain
 
@@ -95,11 +90,9 @@ describe('ToDo test', () => {
 @snap[middle fragment]
 @ul
 
--   CI & parallelization
 -   recording
 -   snapshots
 -   real time reloading
--   consistent results
 -   ... -> <a href="http://cypress.io">cypress.io</a>
     @snapend
 
